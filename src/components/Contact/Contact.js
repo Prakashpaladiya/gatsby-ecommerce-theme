@@ -31,7 +31,7 @@ const Contact = (props) => {
         <h4>Send Us A Message</h4>
         <p>
           Our Customer Service team are here for all enquiries Monday to Friday,
-          9am - 7pm (Australian Eastern Daylight Savings Time).
+          9am - 7pm (IST).
         </p>
         <p>We look forward to hearing from you.</p>
       </div>
