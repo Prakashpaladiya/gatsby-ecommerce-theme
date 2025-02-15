@@ -5,7 +5,7 @@ const Policy = (props) => {
   return (
     <div className={styles.root}>
       <div className={styles.section}>
-        <h3>1. Lorem Ipsum</h3>
+        <h3>1. Privacy Policy</h3>
         <p>
           Paladiya Enterprise collects personal
           information that you voluntarily provide when applying or registering
@@ -27,7 +27,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>2. Lorem Ipsum</h3>
+        <h3>2. Privacy Policy</h3>
         <p>
           Our Services, including but not limited to the registration of an
           account with us or placing of an order, is not intended to be used by
@@ -54,7 +54,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>3. Lorem Ipsum</h3>
+        <h3>3. T&C</h3>
         <p>
           You must only use our Services in accordance with this Privacy Policy
           and any applicable law or regulations. You agree to refrain from
