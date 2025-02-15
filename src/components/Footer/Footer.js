@@ -73,6 +73,7 @@ const Footer = (prop) => {
                 <p className={styles.promoMessage}>
                   Get 15% off your first purchase! Plus, be the first to know
                   about sales, new product launches and exclusive offers!
+                    GST No:- 24DDXPP0023H1ZH
                 </p>
                 <form
                   className={styles.newsLetterForm}
