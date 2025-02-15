@@ -28,7 +28,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`PALADIYA ENTERPRISE \n A Indian brand since 2008`}
         />
 
         <div className={styles.navContainer}>
