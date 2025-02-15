@@ -1,6 +1,6 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
+    { "value": "AUS", "label": "India (INR Rs)" },
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
@@ -13,7 +13,7 @@
   ],
   "social": {
     "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
+    "instagram": "https://www.instagram.com/brinsa_designer/profilecard/?igsh=MWFoZXBuajY0dzAwMA%3D%3D",
     "twitter": "https://twitter.com/hellomatter",
     "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
   },
