@@ -7,16 +7,16 @@ const Policy = (props) => {
       <div className={styles.section}>
         <h3>1. Lorem Ipsum</h3>
         <p>
-          Delaware limited liability company (The Sydney) collects personal
+          Paladiya Enterprise collects personal
           information that you voluntarily provide when applying or registering
           for an account with The Upside or making a purchase on The Upside
-          website; www.theupside.com (the Website).
+          website; www.paladiyaenterprise.store (the Website).
         </p>
         <p>
           This Privacy Policy (Privacy Policy) outlines how your information is
           collected, used and disclosed when you access or use our Services as
           defined in our Terms. This information is collected, used and
-          disclosed in accordance with the Privacy Act 1988 (Cth) (Privacy Act).{' '}
+          disclosed in accordance with the Law applicable in India.{' '}
         </p>
         <p>
           This Privacy Policy is incorporated by reference into our Terms. Any
