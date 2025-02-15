@@ -4,12 +4,12 @@ import { isNumeric } from '../../helpers/general';
 
 const CurrencyFormatter = ({
   amount,
-  currency = 'USD',
+  currency = 'INR',
   appendZero = false,
   useDollar = false,
 }) => {
   let displayAmount =
-    (typeof amount !== 'number' && parseFloat(amount?.replace('$', ''))) ||
+    (typeof amount !== 'number' && parseFloat(amount?.replace('Rs.', ''))) ||
     amount;
   /* Set language display */
   const languageCode =
