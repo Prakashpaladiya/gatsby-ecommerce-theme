@@ -1,6 +1,6 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "India (INR Rs)" },
+    { "value": "IND", "label": "India (INR Rs)" },
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
