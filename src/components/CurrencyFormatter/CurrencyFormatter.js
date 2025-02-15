@@ -23,7 +23,7 @@ const CurrencyFormatter = ({
     style: 'currency',
     currency,
   });
-  let symbol = '$';
+  let symbol = 'Rs.';
   let formattedPrice = formatObject.format(displayAmount);
   if ('formatToParts' in formatObject) {
     const formattedPriceParts = formatObject.formatToParts(displayAmount);
