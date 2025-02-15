@@ -35,7 +35,7 @@ const FaqPage = (props) => {
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at paladiyaprakash1996@hotmail.com or call us
+                get in touch with us at paladiyaprakash1996@gmail.com or call us
                 on +91 72650 58399.
               </p>
             </div>
@@ -87,8 +87,7 @@ const FaqPage = (props) => {
               </p>
               <p>
                 For deliveries to the India, we will bill you in Indian Rupee Sterling
-                (Rs), to the European Union in Euros (€), to the US in Dollars
-                ($), and to the Rest of World in Pounds Sterling (£).
+                (Rs).
               </p>
               <p>
                 Standard rate GST is included in all orders to the India
