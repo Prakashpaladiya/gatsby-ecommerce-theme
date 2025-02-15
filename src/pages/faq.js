@@ -86,8 +86,7 @@ const FaqPage = (props) => {
                 hand corner of the page.
               </p>
               <p>
-                For deliveries to the India, we will bill you in Indian Rupee Sterling
-                (Rs).
+                For deliveries to the India, we will bill you in Indian Rupee Only.
               </p>
               <p>
                 Standard rate GST is included in all orders to the India
