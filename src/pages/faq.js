@@ -35,8 +35,8 @@ const FaqPage = (props) => {
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com or call us
-                on +44 (0)115 111 1111.
+                get in touch with us at paladiyaprakash1996@hotmail.com or call us
+                on +91 72650 58399.
               </p>
             </div>
             <div className={styles.subSection}>
@@ -74,8 +74,8 @@ const FaqPage = (props) => {
               </p>
               <p>
                 If there’s something you want to know about your order, please
-                get in touch with us at customerservice@example.com call us on
-                +44 (0)115 111 1111.
+                get in touch with us at paladiyaprakash1996@gmail.com  call us on
+                +91 72650 58399.
               </p>
             </div>
             <div className={styles.subSection}>
@@ -86,15 +86,13 @@ const FaqPage = (props) => {
                 hand corner of the page.
               </p>
               <p>
-                For deliveries to the UK, we will bill you in Pounds Sterling
-                (£), to the European Union in Euros (€), to the US in Dollars
+                For deliveries to the India, we will bill you in Indian Rupee Sterling
+                (Rs), to the European Union in Euros (€), to the US in Dollars
                 ($), and to the Rest of World in Pounds Sterling (£).
               </p>
               <p>
-                Standard rate VAT is included in all orders to the UK and
-                Europe. Orders to the Rest of the World do not include VAT.
-                Where applicable, you will be responsible for any local country
-                import duty.
+                Standard rate GST is included in all orders to the India
+                Orders.
               </p>
             </div>
             <div className={styles.subSection}>
