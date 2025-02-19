@@ -37,8 +37,10 @@ const Contact = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h4>Phone</h4>
-        <p>+91 72650 58399</p>
+        <h4>Address & Phone</h4>
+        <p>C302 Ashwmegh Palace, Opp Shrinathji Gardania Apartment
+           Kosad-Sayan Road, Surat, Gujarat, India
+           +91 72650 58399</p>
         <p>Monday to Friday - 9am - 7pm IST</p>
       </div>
 
